@@ -1,2 +1,2 @@
 @echo off
-powershell ./publish.ps1
+pub\publish.bat
