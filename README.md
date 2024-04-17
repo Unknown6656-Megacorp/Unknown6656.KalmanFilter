@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/############?svg=true)](https://ci.appveyor.com/project/Unknown6656-Megacorp/Unknown6656.KalmanFilter)
+[![Build status](https://ci.appveyor.com/api/projects/status/489k0h78lm63w2sd?svg=true)](https://ci.appveyor.com/project/Unknown6656-Megacorp/Unknown6656.KalmanFilter)
 [![releases](https://img.shields.io/github/downloads/Unknown6656-Megacorp/Unknown6656.KalmanFilter/total)](https://github.com/Unknown6656-Megacorp/Unknown6656.KalmanFilter/releases)
 [![nuget package](https://img.shields.io/nuget/vpre/Unknown6656.KalmanFilter)](https://www.nuget.org/packages/Unknown6656.KalmanFilter/)
 [![nuget downloads](https://img.shields.io/nuget/dt/Unknown6656.KalmanFilter)](https://www.nuget.org/packages/Unknown6656.KalmanFilter/)
@@ -10,7 +10,7 @@
 
 
 # Unknown6656.KalmanFilter
-This library provides a light-weight generic Kálmán filter for C# and .NET
+This library provides a light-weight generic Kï¿½lmï¿½n filter for C# and .NET
 
 [TODO]
 
