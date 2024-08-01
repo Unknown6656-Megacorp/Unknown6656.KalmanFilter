@@ -10,7 +10,7 @@
 
 
 # Unknown6656.KalmanFilter
-This library provides a light-weight generic K�lm�n filter for C# and .NET
+This library provides a light-weight generic Kalman filter for C# and .NET
 
 [TODO]
 
@@ -40,11 +40,6 @@ Use one of the follwing methods to install and use this library:
     ```
 
 ## Documentation and Usage
-To use the discriminated unions, simply include the namespace `Unknown6656.KalmanFilter`:
-```csharp
-using Unknown6656.KalmanFilter;
-```
-
 [TODO]
 
 
